@@ -1,13 +1,13 @@
 # CT Lungenembolie
 
 ## Klinische Information
-- D-Dimer:
+- D-Dimere:
 
 ## Fragestellung
 Lungenembolie?
 
-## Befund
-- Voruntersuchungen: Liegen nicht vor
+## Strukturierte Befundung
+- Voruntersuchungen: Liegen zum Befundungszeitpunkt nicht vor.
 - Lungenembolie: Nein/Ja
 - Lokalisation: zentral/lobär/segmental/subsegmental
 - Beteiligte Abschnitte

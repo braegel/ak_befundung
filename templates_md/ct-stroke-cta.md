@@ -5,8 +5,8 @@ V.a. Schlaganfall
 
 ## Fragestellung
 
-## Befund
-- Voruntersuchung: keine
+## Strukturierte Befundung
+- Voruntersuchungen: Liegen zum Befundungszeitpunkt nicht vor.
 - Vordere Zirkulation
   - Aortenbogen: 
   - ACC rechts: Unauffällig

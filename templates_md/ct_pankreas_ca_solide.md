@@ -5,7 +5,7 @@
 ## Fragestellung
 
 ## Strukturierte Befundung
-- Voruntersuchung: keine
+- Voruntersuchungen: Liegen zum Befundungszeitpunkt nicht vor.
 - Pankreas
   - Pankreasparenchym: Unauffällig/Lipomatös/Ödematös/Chronische Pankreatitis
   - Solide Raumforderung

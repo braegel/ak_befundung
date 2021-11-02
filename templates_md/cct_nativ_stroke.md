@@ -5,8 +5,8 @@ V.a. Schlaganfall
 
 ## Fragestellung
 
-## Befund
-- Voruntersuchung:
+## Strukturierte Befundung
+- Voruntersuchung: keine
 - Stroke
   - Blutung: nein
   - Hyperdenses Arterienzeichen: nein

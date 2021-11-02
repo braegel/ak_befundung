@@ -5,8 +5,8 @@ V.a. Schlaganfall
 
 ## Fragestellung
 
-## Befund
-- Voruntersuchung: keine
+## Strukturierte Befundung
+- Voruntersuchungen: liegen zum Befundungszeitpunkt nicht vor.
 - CT-Perfusion
   - Verzögerte zerebrale Perfusion (MTT, TTP, TTD): Nein
   - Verminderter zerebraler Blutfluss (CBF): Nein
