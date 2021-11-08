@@ -8,3 +8,12 @@ templates_development_word/neuro/.DS_Store
 # emacs
 *~
 *#
+
+# latex Source: https://gist.github.com/kogakure/149016
+*.aux
+*.log
+*.toc
+*.dvi
+*.out
+*.synctex.gz
+*.pdf
